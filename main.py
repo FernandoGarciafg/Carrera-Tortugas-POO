@@ -27,8 +27,8 @@ class Circuito(): # creamos un objeto que va a ser el circuito
             new_turtle.setpos(self.__startLine, self.__posStartY[i])
             
             self.corredores.append(new_turtle)
-
-
+            
+    
 
 
 if __name__ == '__main__':
